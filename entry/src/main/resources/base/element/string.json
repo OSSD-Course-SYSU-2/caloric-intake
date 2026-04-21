@@ -1,0 +1,120 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "热量统计应用模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "热量统计应用主能力"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "热量统计"
+    },
+    {
+      "name": "app_name",
+      "value": "热量统计"
+    },
+    {
+      "name": "add_food",
+      "value": "添加食物"
+    },
+    {
+      "name": "history",
+      "value": "历史记录"
+    },
+    {
+      "name": "today_intake",
+      "value": "今日摄入"
+    },
+    {
+      "name": "daily_goal",
+      "value": "目标"
+    },
+    {
+      "name": "kcal",
+      "value": "千卡"
+    },
+    {
+      "name": "food_record",
+      "value": "食物记录"
+    },
+    {
+      "name": "quick_add",
+      "value": "快速添加"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "food_name",
+      "value": "食物名称"
+    },
+    {
+      "name": "calories",
+      "value": "热量"
+    },
+    {
+      "name": "quantity",
+      "value": "数量"
+    },
+    {
+      "name": "unit",
+      "value": "单位"
+    },
+    {
+      "name": "meal_time",
+      "value": "用餐时间"
+    },
+    {
+      "name": "food_reference",
+      "value": "常见食物热量参考"
+    },
+    {
+      "name": "no_history",
+      "value": "暂无历史记录"
+    },
+    {
+      "name": "start_record",
+      "value": "开始记录您的饮食，查看热量统计"
+    },
+    {
+      "name": "total_intake",
+      "value": "总摄入"
+    },
+    {
+      "name": "difference",
+      "value": "差值"
+    },
+    {
+      "name": "exceeded_goal",
+      "value": "（已超出目标）"
+    },
+    {
+      "name": "not_reached_goal",
+      "value": "（未达目标）"
+    },
+    {
+      "name": "history_date",
+      "value": "历史日期"
+    },
+    {
+      "name": "no_record_for_date",
+      "value": "该日期无记录"
+    },
+    {
+      "name": "filter",
+      "value": "筛选"
+    },
+    {
+      "name": "back",
+      "value": "返回"
+    }
+  ]
+}

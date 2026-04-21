@@ -1,0 +1,37 @@
+{
+  "layered-image":
+  {
+    "background" : "$media:background",
+    "foreground" : "$media:foreground"
+  },
+  "media": [
+    {
+      "name": "ic_time",
+      "src": "$media:startIcon"
+    },
+    {
+      "name": "ic_add",
+      "src": "$media:startIcon"
+    },
+    {
+      "name": "ic_delete",
+      "src": "$media:startIcon"
+    },
+    {
+      "name": "ic_calendar",
+      "src": "$media:startIcon"
+    },
+    {
+      "name": "ic_arrow_right",
+      "src": "$media:startIcon"
+    },
+    {
+      "name": "ic_empty",
+      "src": "$media:startIcon"
+    },
+    {
+      "name": "ic_no_food",
+      "src": "$media:startIcon"
+    }
+  ]
+}
