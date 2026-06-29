@@ -52,6 +52,8 @@ Preferences + SQLite 本地持久化存储
 - 字体自适应：全局字体大小适配设备，提升阅读体验
 - 轻量化低功耗：无后台冗余进程，启动快速，操作流畅无卡顿
 📁 项目结构
+<img width="654" height="1440" alt="Screenshot_2026-06-29T195339" src="https://github.com/user-attachments/assets/ee515f0d-401b-43bc-9cbf-55449d05646f" />
+
 light-calorie/
 ├── AppScope/                          # 应用级全局配置
 │   ├── app.json5                      # 应用包名、版本、权限全局配置
